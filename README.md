@@ -1,33 +1,5 @@
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>README</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-      header {
-        background-color: #333;
-        color: #fff;
-        padding: 10px;
-      }
-      h1 {
-        margin: 0;
-      }
-      main {
-        padding: 10px;
-      }
-      pre {
-        background-color: #f7f7f7;
-        border: 1px solid #ccc;
-        padding: 10px;
-      }
-    </style>
-  </head>
-  <body>
+
     <header>
       <h1>README</h1>
     </header>
