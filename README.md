@@ -1,5 +1,6 @@
 
-
+<!DOCTYPE html>
+<html>
     <header>
       <h1>README</h1>
     </header>
